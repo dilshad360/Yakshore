@@ -1,2 +1,5 @@
 # Yakshore
-https://dilshad360.github.io/Yakshore/
+
+A website made for business consulting company.🏢
+
+https://yakshore.com/
